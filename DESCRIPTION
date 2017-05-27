@@ -15,7 +15,7 @@ Description: A general framework for finite mixtures of regression models
   linear models, generalized linear models and model-based clustering.
 Depends: R (>= 2.15.0), lattice
 Imports: graphics, grid, grDevices, methods, modeltools (>= 0.2-16),
-        nnet, stats, stats4
+        nnet, stats, stats4, lme4
 Suggests: actuar, codetools, diptest, ellipse, gclus, glmnet, lme4 (>=
         1.0), MASS, mgcv (>= 1.8-0), mlbench, mlogit, multcomp,
         mvtnorm, SuppDists, survival
